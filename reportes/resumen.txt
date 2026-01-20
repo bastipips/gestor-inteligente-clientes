@@ -1,0 +1,6 @@
+REPORTE GIC
+------------------
+Total clientes: 3
+Clientes Regular: 1
+Clientes Premium: 1
+Clientes Corporativo: 1
