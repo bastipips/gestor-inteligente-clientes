@@ -84,7 +84,7 @@ Todos heredan de la clase base `Cliente` y redefinen métodos utilizando **polim
 
 Desde la carpeta `GIC`, ejecutar:
 
-```bash
+bash
 python main.py
 
 El sistema mostrará un menú por consola para interactuar con la aplicación.
