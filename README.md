@@ -1,11 +1,11 @@
-# 📊 Gestor Inteligente de Clientes (GIC)
+#  Gestor Inteligente de Clientes (GIC)
 
 Proyecto desarrollado en **Python 3** que implementa un sistema de gestión de clientes por consola, aplicando **Programación Orientada a Objetos (POO)**, validaciones, manejo de errores, manejo de archivos y registro de actividad.
 Este proyecto fue realizado como evaluación académica del módulo **Full Stack Python**, cumpliendo estrictamente todos los requerimientos solicitados.
 
 ---
 
-## 🎯 Objetivo del proyecto
+##  Objetivo del proyecto
 
 Desarrollar un sistema que permita:
 
@@ -19,7 +19,7 @@ Desarrollar un sistema que permita:
 
 ---
 
-## 🧠 Conceptos aplicados
+## Conceptos aplicados
 
 - Programación Orientada a Objetos (POO)
   - Encapsulación
@@ -33,7 +33,7 @@ Desarrollar un sistema que permita:
 
 ---
 
-## 🗂️ Estructura del proyecto
+## Estructura del proyecto
 
 GIC/
 ├── main.py
@@ -58,7 +58,7 @@ GIC/
 └── README.md
 
 
-## 👥 Tipos de clientes
+## Tipos de clientes
 
 - **ClienteRegular**
 - **ClientePremium**
@@ -66,21 +66,21 @@ GIC/
 
 Todos heredan de la clase base `Cliente` y redefinen métodos utilizando **polimorfismo**.
 
-## 🧪 Validaciones implementadas
+## Validaciones implementadas
 
 - Email válido con dominio `@gmail.com`
 - Teléfono de 9 dígitos comenzando en `9`
 - Prevención de clientes duplicados
 - Manejo de errores mediante excepciones personalizadas
 
-## 📁 Manejo de archivos
+## Manejo de archivos
 
 - Exportación de clientes a `datos/clientes.csv`
 - Importación desde `datos/clientes_entrada.csv`
 - Generación de reporte `reportes/resumen.txt`
 - Registro de actividad en `logs/app.log`
 
-## ▶️ Ejecución del sistema
+##  Ejecución del sistema
 
 Desde la carpeta `GIC`, ejecutar:
 
